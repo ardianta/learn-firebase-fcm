@@ -1,0 +1,1 @@
+We need to create `firebase-messaging-sw.js` manually, because vite didn't generate the file to the public.
