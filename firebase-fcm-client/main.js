@@ -12,7 +12,7 @@ import { getMessaging, getToken } from "firebase/messaging";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAK6QjHay_zja3_86d8dYHddyvYiT__wsI",
+  apiKey: "YOUR_FIREBASE_API_KEY",
   authDomain: "learn-firebase-fcm.firebaseapp.com",
   projectId: "learn-firebase-fcm",
   storageBucket: "learn-firebase-fcm.appspot.com",
